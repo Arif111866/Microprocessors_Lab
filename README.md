@@ -1,7 +1,3 @@
-Here's a README file based on your content, written in a way to guide users through each part of the code. 
-
----
-
 # STM32 LED Blink Example Using Direct Register Access
 
 This project demonstrates how to blink an LED connected to pin 13 on an STM32 microcontroller (GPIOC pin 13) by accessing registers directly, without using higher-level libraries like HAL. This approach provides a deeper understanding of how STM32 peripherals work at a lower level.
